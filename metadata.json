@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Outing Kantor",
+  "description": "Kuis pilihan ganda 15 soal lucu dan seru untuk acara Outing Kantor lengkap dengan mode Game Host/MC, Scoreboard Tim, dan ekspor JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
